@@ -9,7 +9,6 @@ This project is a clone of the popular Stick Hero game, developed using Object-O
 - [Setup](#setup)
 - [How to Play](#how-to-play)
 - [Contributions](#contributions)
-- [License](#license)
 
 ## Introduction
 Stick Hero Game Clone is a Java-based application created by Akshat Raj Saxena (2022054) and Vansh Agarwaal (2022558). The game replicates the Stick Hero gameplay experience using JavaFX for the user interface and animation handling.
